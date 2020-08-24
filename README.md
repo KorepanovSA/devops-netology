@@ -1,6 +1,7 @@
 # devops-netology
 ## SK
 
+
 ### Исключения для terraform
 
 Исключаются все файлы в каталоге и подкаталогах .terraform
